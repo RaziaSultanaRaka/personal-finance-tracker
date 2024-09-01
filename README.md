@@ -1,5 +1,3 @@
-![visitor badge](https://github.com/raka788/personal-finance-tracker)
-
 # Personal Finance Tracker
 
 ## Project Overview
