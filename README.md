@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)
+![visitor badge](https://github.com/raka788/personal-finance-tracker)
 
 # Personal Finance Tracker
 
